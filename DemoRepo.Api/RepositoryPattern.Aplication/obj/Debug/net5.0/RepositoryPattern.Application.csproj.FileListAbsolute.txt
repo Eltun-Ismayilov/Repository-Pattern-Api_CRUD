@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\bin\Debug\net5.0\RepositoryPattern.Application.deps.json
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\bin\Debug\net5.0\RepositoryPattern.Application.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\bin\Debug\net5.0\ref\RepositoryPattern.Application.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\bin\Debug\net5.0\RepositoryPattern.Application.pdb
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\RepositoryPattern.Application.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\RepositoryPattern.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\RepositoryPattern.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\RepositoryPattern.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\RepositoryPattern.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\RepositoryPattern.Application.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\ref\RepositoryPattern.Application.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\RepositoryPattern.Application.pdb
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\bin\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\bin\Debug\net5.0\RepositoryPattern.Persistence.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\bin\Debug\net5.0\RepositoryPattern.Persistence.pdb
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Aplication\obj\Debug\net5.0\RepositoryPattern.Application.csproj.CopyComplete

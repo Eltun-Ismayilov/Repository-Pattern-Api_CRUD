@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\obj\Debug\net5.0\RepositoryPattern.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\obj\Debug\net5.0\RepositoryPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\bin\Debug\net5.0\RepositoryPattern.Domain.deps.json
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\bin\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\bin\Debug\net5.0\ref\RepositoryPattern.Domain.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\obj\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\obj\Debug\net5.0\ref\RepositoryPattern.Domain.dll
+C:\Users\User\Desktop\Repository-Pattern-Api_CRUD\DemoRepo.Api\RepositoryPattern.Domein\obj\Debug\net5.0\RepositoryPattern.Domain.pdb
